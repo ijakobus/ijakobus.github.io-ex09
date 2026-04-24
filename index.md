@@ -6,15 +6,15 @@ layout: default
 # EX09 Assignment
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-<img src="/static/imgs/image.png" alt = "Scatterplot depicting the relationship between pre lecture videos and student's level of understanding."
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/image.png" alt = "Scatterplot depicting the relationship between pre lecture videos and student's level of understanding."
 width="500"/>
 
-<img src="/static/imgs/image-1.png" alt = "Boxplot depicting trends in the distribution of understanding scores in relation to the pre-class video data."
+<img src="static/imgs/image-1.png" alt = "Boxplot depicting trends in the distribution of understanding scores in relation to the pre-class video data."
 width="500"/> 
 
 
-<img src="/static/imgs/image-2.png" alt = "Bar plot to depict the overall trend for how many students selected each response to the pre lecture video question."
+<img src="static/imgs/image-2.png" alt = "Bar plot to depict the overall trend for how many students selected each response to the pre lecture video question."
 width="500"/> 
 
 
