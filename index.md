@@ -7,7 +7,7 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="ijakobus/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-<img src="C:\Users\Isabella Jakobuss\OneDrive\Desktop\personal-site.github.io\image.png" alt = "Scatterplot depicting the relationship between pre lecture videos and student's level of understanding."
+<img src="image.png" alt = "Scatterplot depicting the relationship between pre lecture videos and student's level of understanding."
 width="500"/>
 
 <img src="C:\Users\Isabella Jakobuss\OneDrive\Desktop\personal-site.github.io\image-1.png" alt = "Boxplot depicting trends in the distribution of understanding scores in relation to the pre-class video data."
